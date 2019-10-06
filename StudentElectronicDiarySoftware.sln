@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentElectronicDiarySoftware", "StudentElectronicDiarySoftware.csproj", "{61A6EF3A-3E6B-4AC1-BFED-DFDCACB1FFF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationGuiLayer", "PresentationGuiLayer\PresentationGuiLayer.csproj", "{32A521A8-F731-4851-AC47-84462D65A1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A6EF3A-3E6B-4AC1-BFED-DFDCACB1FFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A6EF3A-3E6B-4AC1-BFED-DFDCACB1FFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A6EF3A-3E6B-4AC1-BFED-DFDCACB1FFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A6EF3A-3E6B-4AC1-BFED-DFDCACB1FFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A521A8-F731-4851-AC47-84462D65A1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A521A8-F731-4851-AC47-84462D65A1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A521A8-F731-4851-AC47-84462D65A1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A521A8-F731-4851-AC47-84462D65A1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46D35DDB-42FE-476D-B4CA-32792B63EE9D}
+	EndGlobalSection
+EndGlobal
